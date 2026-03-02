@@ -2,7 +2,7 @@
 
 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project investigates which performance metrics most strongly influence final league position in the English Premier League.
 
@@ -20,7 +20,7 @@ The objective is to determine which metric is the strongest predictor of team su
 
 
 
-## 🎯 Research Question
+##  Research Question
 
 Which performance metric among shot accuracy, goal conversion rate, and discipline most significantly influences final league position?
 
@@ -30,7 +30,7 @@ Which performance metric among shot accuracy, goal conversion rate, and discipli
 
 
 
-## 📊 Hypotheses
+##  Hypotheses
 
 1. Shot accuracy increases probability of winning matches  
 
@@ -48,7 +48,7 @@ Which performance metric among shot accuracy, goal conversion rate, and discipli
 
 
 
-## 🛠 Methodology
+##  Methodology
 
 - Data cleaning and preprocessing  
 
@@ -63,7 +63,7 @@ Which performance metric among shot accuracy, goal conversion rate, and discipli
 
 
 
-## 📈 Key Findings
+##  Key Findings
 
 - Goal conversion rate showed the strongest relationship with league position.  
 
@@ -77,7 +77,7 @@ Which performance metric among shot accuracy, goal conversion rate, and discipli
 
 
 
-## 💼 Business Recommendation
+##  Business Recommendation
 
 Clubs underperforming in league position despite strong shot accuracy should prioritize:
 
