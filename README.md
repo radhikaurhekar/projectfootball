@@ -12,7 +12,7 @@ We analyze three key parameters:
 - Goal Conversion Rate  
 - Disciplinary Record (Yellow and Red Cards)  
 
-The objective is to determine which metric is the strongest predictor of team success over a full season.
+The objective is to determine how stromgly these metrics  predict team success over a full season.
 
 
 
@@ -22,7 +22,7 @@ The objective is to determine which metric is the strongest predictor of team su
 
 ##  Research Question
 
-Which performance metric among shot accuracy, goal conversion rate, and discipline most significantly influences final league position?
+How do performance metrics shot accuracy, goal conversion rate, and discipline influence final league position?
 
 
 
@@ -99,9 +99,7 @@ Clubs underperforming in league position despite strong shot accuracy should pri
 
 - `data/` – Raw datasets  
 
-- `notebooks/` – Analysis notebook  
-
-- `outputs/` – Visualizations  
+- `notebooks/` – Analysis notebook   
 
 - `README.md` – Project documentation  
 
@@ -121,8 +119,10 @@ Clubs underperforming in league position despite strong shot accuracy should pri
 
 ---
 
-## Link to the Presentation:
-## Link to Kanban Board: 
+## Link to the Presentation: https://1drv.ms/p/c/00B64655BBE4221D/IQBYJY8ESfvbTK9rDUO0bvHSAWiU4Wd8fOhjQ9-6VWYCjR4
+## Link to Kanban Board: https://trello.com/b/KIBQ65Ds/project-football
+## Link to API source: https://www.api-football.com/
+## Link to Kaggle dataset: https://www.kaggle.com/datasets/saife245/english-premier-league
 
 
 
